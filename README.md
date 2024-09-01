@@ -1,11 +1,12 @@
 Hi, My name is Ajeet Sahani.
 I’m a  Frontend-Developer .
 Skills:
-Languages:[ C ,Java ,Html ,Css]
-Frameworks: 
-Library:[GSAP(GreenSock Animation Platform)]
-Tools & Technologies: 
-Other: [Problem-solving]
+Languages:[ C ,Java ,Html ,Css],
+Frameworks:[], 
+Library:[GSAP(GreenSock Animation Platform)],
+Tools & Technologies:[ ],
+Currently Learning :[Javascript],
+Other: [Problem-solving],
 Let’s Connect:
 
 
