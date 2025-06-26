@@ -1,5 +1,5 @@
 Hi, My name is Ajeet Sahani.
-I’m a  Frontend-Developer .
+I’m a  MERN Stack-Developer .
 Skills:
 Languages:[ C ,Java ,Html ,Css],
 Frameworks:[], 
