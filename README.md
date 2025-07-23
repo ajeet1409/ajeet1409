@@ -1,17 +1,7 @@
-Hi, My name is Ajeet Sahani.
-I’m a  MERN Stack-Developer .
-Skills:
-Languages:[ C ,Java ,Html ,Css],
-Frameworks:[], 
-Library:[GSAP(GreenSock Animation Platform)],
-Tools & Technologies:[ ],
-Currently Learning :[Javascript],
-Other: [Problem-solving],
-Let’s Connect:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ajeet;MERN+Stack+Developer;Love+Open+Source&center=true&width=500)
 
-# 👋 Hi there, I'm Ajeet Sahani
+<!--# 👋 Hi there, I'm Ajeet Sahani-->
 
 🌱 I’m currently learning MERN Stack and solving DSA  
  
