@@ -18,10 +18,10 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)   ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet1409&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)             ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet1409&layout=compact&theme=radical)
 
 
-<!--## 🔥 Streak Stats-->
+ 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajeet1409&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 <!---## 🏆 GitHub Trophies
