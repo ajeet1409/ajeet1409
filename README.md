@@ -9,11 +9,12 @@ Currently Learning :[Javascript],
 Other: [Problem-solving],
 Let’s Connect:
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ajeet;MERN+Stack+Developer;Love+Open+Source&center=true&width=500)
 
-# 👋 Hi, I'm Ajeet Sahani
+# 👋 Hi there, I'm Ajeet Sahani
 
 🌱 I’m currently learning MERN Stack and solving DSA  
-👯 I’m looking to collaborate on open-source JavaScript projects  
+ 
 💬 Ask me about React, Node.js, MongoDB  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)  
 😄 Pronouns: He/Him  
@@ -30,18 +31,18 @@ Let’s Connect:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
+<!--## 🔥 Streak Stats-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajeet1409&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajeet1409&theme=dark&hide_border=true)](https://git.io/streak-stats)  ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet1409&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
+<!---## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ajeet1409&theme=radical)
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=ajeet1409&theme=radical) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)   ![JavaScript , ReactJS ](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet1409&layout=compact&theme=radical)
+
+
+![ajeet1409 GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)   
 
 <!---
 ajeet1409/ajeet1409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
