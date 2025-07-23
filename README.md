@@ -9,7 +9,7 @@ Currently Learning :[Javascript],
 Other: [Problem-solving],
 Let’s Connect:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)
 
 <!---
 ajeet1409/ajeet1409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
