@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ajeet;MERN+Stack+Developer&center=true&width=800)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ajeet;MERN+Stack+Developer&center=true&width=800) 
 
 <!--# 👋 Hi there, I'm Ajeet Sahani-->
 
