@@ -9,7 +9,7 @@ Currently Learning :[Javascript],
 Other: [Problem-solving],
 Let’s Connect:
 
-![JavaScript , ReactJS ](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![JavaScript , ReactJS ](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet1409&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeet1409&show_icons=true&theme=radical)
 
