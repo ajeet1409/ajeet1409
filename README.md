@@ -5,7 +5,7 @@
 <!--# 👋 Hi there, I'm Ajeet Sahani-->
 
 🌱 I’m currently learning MERN Stack and solving DSA  
-![snake gif](https://github.com/ajeetsahani/ajeetsahani/blob/output/github-contribution-grid-snake.svg)
+
 
 💬 Ask me about React, Node.js, MongoDB  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)  
