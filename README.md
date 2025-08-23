@@ -1,5 +1,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ajeet+Sahani;MERN+Stack+Developer&center=true&width=800) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetsahani&show_icons=true&theme=radical&hide_border=true)
 
 <!--# 👋 Hi there, I'm Ajeet Sahani-->
 
